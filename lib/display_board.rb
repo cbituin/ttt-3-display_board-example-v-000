@@ -2,3 +2,6 @@
 def display_board
   "    |   |   "
   
+  "    |   |   "
+  "    |   |   "
+  
